@@ -1,0 +1,5 @@
+Flask
+Flask-CORS
+memvid
+PyPDF2
+python-dotenv
